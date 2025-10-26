@@ -1,0 +1,31 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+main{
+    height: 100dvh;
+    width: 100dvw;
+}
+h1{
+    height: 10%;
+    width: 10%;
+    position: absolute;
+    top: 10%;
+    left: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10%;
+}
+p{
+    background-color: aquamarine;
+    color: black;
+    font-weight: bold;
+    font-size: xx-large;
+    position: absolute;
+    top: 25%;
+    width: 80%;
+    left: 9%;
+
+
+}
